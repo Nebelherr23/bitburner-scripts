@@ -33,6 +33,9 @@
       "@/*": [
         "./*"
       ],
+      "@lib/*": [
+        "./servers/home/lib/*"
+      ],
       "NetscriptDefinitions": [
         "NetscriptDefinitions.d.ts"
       ]
